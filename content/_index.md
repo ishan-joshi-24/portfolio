@@ -1,6 +1,6 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
+title: Hi! I'm Ishan 
+subtitle: I am a builder and an educator. I bring abstract ideas to life with the the use of  technology and also help others do the same.
 seo_title: Hugo Liftoff | Hugo theme for creators
 
 primary_cta_page: "about"
