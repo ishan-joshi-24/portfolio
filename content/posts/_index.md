@@ -1,5 +1,5 @@
 ---
 title: Posts
-summary: Tell visitors about your posts by customizing this text.
+summary: Here are some of my blog posts. Enjoy!
 description: Explore some of my recent posts.
 ---
