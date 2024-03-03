@@ -67,5 +67,3 @@ Regularly monitor the performance of your queries and index usage using MongoDB'
 ### Conclusion
 
 Proper indexing is essential for optimizing query performance, improving data retrieval efficiency, and enhancing overall application performance in MongoDB. By following best practices for indexing and regularly monitoring and optimizing your indexes, you can ensure that your MongoDB databases perform efficiently and scale effectively as your application grows.
-
-Happy indexing! :rocket: 
